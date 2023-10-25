@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0528F2&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+João+Dev;Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-- 🔭 Hoje trabalho com
+- 🔭 Hoje trabalho com front-end
 - 🌱 Estudando HTML, CSS e JavaScript
 - 📫 Contate-me no email: joaogrsouza@live.com
 - 😄 Pronouns: ele/dele
