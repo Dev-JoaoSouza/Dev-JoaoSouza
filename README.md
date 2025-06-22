@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0528F2&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+João+Dev;Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 - 🔭 Hoje trabalho como desenvolvedor full-stack
-- 🌱 Estudando TypeScrpt, Node.js, banco de dados e angular
+- 🌱 Estudando TypeScript, Node.js, banco de dados e angular
 - 📄 Portfólio: [https://joaodev.site/](https://joaodev.site/)
 - 📫 Contate-me no email: [joaogrsouza@live.com](joaogrsouza@live.com)
 - 💼 Linkedin: [https://www.linkedin.com/in/joaosouza-dev/](https://www.linkedin.com/in/joaosouza-dev/)
